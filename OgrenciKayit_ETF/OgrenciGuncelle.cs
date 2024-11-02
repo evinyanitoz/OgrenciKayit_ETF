@@ -32,6 +32,8 @@ namespace OgrenciKayit_ETF
 
 
             });
+            MessageBox.Show("ÖĞRENCİ GÜNCELLENDİ");
+            Listele();
         }
         public void Listele() {
 

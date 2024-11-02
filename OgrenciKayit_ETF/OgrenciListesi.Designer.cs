@@ -37,6 +37,7 @@
             // 
             // dgwOgrenciListele
             // 
+            this.dgwOgrenciListele.BackgroundColor = System.Drawing.Color.AliceBlue;
             this.dgwOgrenciListele.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgwOgrenciListele.Location = new System.Drawing.Point(13, 77);
             this.dgwOgrenciListele.Name = "dgwOgrenciListele";
