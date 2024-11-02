@@ -29,7 +29,7 @@ namespace OgrenciKayit_ETF
 
 
             });
-            MessageBox.Show("ÖĞRENCİ EKLENDİ");
+            MessageBox.Show("ÖĞRENCİ EKLENDİ ");
             Listele();
            
         }
